@@ -71,6 +71,4 @@ void loop()
         tft.write(lastTrackname.c_str());
     }
     delay(2000);
-    git add .
-git commit -m "Update platformio.ini and main.cpp"
-git push
+}
